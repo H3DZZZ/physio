@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/physio/static/css/main.33dccd56.css",
+    "main.js": "/physio/static/js/main.ea23e798.js",
+    "static/js/787.dcbb48c3.chunk.js": "/physio/static/js/787.dcbb48c3.chunk.js",
+    "static/media/logo.png": "/physio/static/media/logo.3dfb54e695fd7bf0107f.png",
+    "index.html": "/physio/index.html",
+    "main.33dccd56.css.map": "/physio/static/css/main.33dccd56.css.map",
+    "main.ea23e798.js.map": "/physio/static/js/main.ea23e798.js.map",
+    "787.dcbb48c3.chunk.js.map": "/physio/static/js/787.dcbb48c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33dccd56.css",
+    "static/js/main.ea23e798.js"
+  ]
+}
